@@ -1,4 +1,4 @@
- Ques- 584
+ -- Ques- 584
 select name
 from Customer
 where referee_id != 2 
